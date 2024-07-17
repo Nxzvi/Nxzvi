@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nezvi_hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nezvi_hussain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nezvi hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nezvi hussain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nezvihussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nezvihussain" height="30" width="40" /></a>
 <a href="https://instagram.com/nxzvihussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nxzvihussain" height="30" width="40" /></a>
 </p>
 
