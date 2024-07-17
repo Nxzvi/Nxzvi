@@ -3,12 +3,13 @@
 Nxzvi/Nxzvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nxzvi&label=Profile%20views&color=0e75b6&style=flat" alt="nxzvi" /> </p>
 <h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+NEZVI+HUSSAIN+K+H" alt="Typing SVG" /></a>
 </h2>
 <h3 align="center">A passionate Python Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nxzvi&label=Profile%20views&color=0e75b6&style=flat" alt="nxzvi" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/nezvi_hussain" target="blank"><img src="https://img.shields.io/twitter/follow/nezvi_hussain?logo=twitter&style=for-the-badge" alt="nezvi_hussain" /></a> </p>
 
