@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+NEZVI+HUSSAIN+K+H" alt="Typing SVG" /></a>
 </h2>
-<h3 align="center">Cybersecurity Researcher| Penetration Tester</h3>
+<h3 align="center">Cybersecurity Researcher | Penetration Tester</h3>
 
 
 
