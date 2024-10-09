@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/nezvi_hussain" target="blank"><img src="https://img.shields.io/twitter/follow/nezvi_hussain?logo=twitter&style=for-the-badge" alt="nezvi_hussain" /></a> </p>
 
-- 🌱 I’m currently learning **Penetration testing & CompTIA Security+**
+- 🌱 I’m currently learning **Penetration testing & CEH V13**
 
 - 📫 How to reach me **nezvihussain00@gmail.com**
 
