@@ -7,13 +7,11 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+NEZVI+HUSSAIN+K+H" alt="Typing SVG" /></a>
 </h2>
-<h3 align="center">Cybersecurity Researcher | Penetration Tester</h3>
+<h3 align="center">Cybersecurity Researcher | SOC Analyst</h3>
 
 
 
 <p align="left"> <a href="https://twitter.com/nezvi_hussain" target="blank"><img src="https://img.shields.io/twitter/follow/nezvi_hussain?logo=twitter&style=for-the-badge" alt="nezvi_hussain" /></a> </p>
-
-- 🌱 I’m currently learning **Penetration testing & CEH V13**
 
 - 📫 How to reach me **nezvihussain00@gmail.com**
 
