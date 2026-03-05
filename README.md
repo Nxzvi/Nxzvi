@@ -1,42 +1,103 @@
+<h1 align="center">Hi 👋 I'm Nezvi Hussain</h1>
 
-<!---
-Nxzvi/Nxzvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nxzvi&label=Profile%20views&color=0e75b6&style=flat" alt="nxzvi" /> </p>
-<h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+NEZVI+HUSSAIN+K+H" alt="Typing SVG" /></a>
-</h2>
-<h3 align="center">Cybersecurity Researcher | SOC Analyst</h3>
-
-
-
-<p align="left"> <a href="https://twitter.com/nezvi_hussain" target="blank"><img src="https://img.shields.io/twitter/follow/nezvi_hussain?logo=twitter&style=for-the-badge" alt="nezvi_hussain" /></a> </p>
-
-- 📫 How to reach me **nezvihussain00@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nezvi_hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nezvi_hussain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nezvihussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nezvihussain" height="30" width="40" /></a>
-<a href="https://instagram.com/nxzvihussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nxzvihussain" height="30" width="40" /></a>
+<p align="center">
+💻 DevOps Enthusiast | ☁ Cloud | ⚙ Automation | 🔐 Security
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/>
-</a>
-<a href="https://wazuh.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/16351339?s=200&v=4" alt="wazuh" width="40" height="40"/>
-</a>
-<a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="vmware" width="40" height="40"/>
-</a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+Passionate about building <b>scalable infrastructure, automated CI/CD pipelines, and secure cloud systems</b>.
+</p>
 
+---
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## 🚀 About Me
+
+- 🎓 Graduate (2024)
+- 🐧 Linux enthusiast
+- ☁ Learning and working with AWS Cloud
+- ⚙ Interested in DevOps automation and CI/CD
+- 🔐 Security & monitoring using Wazuh
+
+---
+
+# 🛠 Tech Stack
+
+### ⚙ DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### ☁ Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/AWS%20VPC-FF4F8B?style=for-the-badge)
+
+### 🐧 Operating System
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+# 📂 DevOps Projects
+
+### ⚙ CI/CD Pipeline
+Automated application deployment using **Jenkins and Docker**.
+
+### ☁ AWS Infrastructure
+Created scalable infrastructure using **EC2, VPC, and Load Balancer**.
+
+### 🔐 Security Monitoring
+Implemented **Wazuh EDR monitoring** for threat detection and log analysis.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nxzvi&show_icons=true&theme=radical">
+
+</p>
+
+---
+
+# 🔥 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxzvi&layout=compact&theme=radical">
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/nxzvi">
+<img src="https://img.shields.io/badge/GitHub-nxzvi-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/nezvihussain">
+<img src="https://img.shields.io/badge/LinkedIn-Nezvi%20Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:nezvihussain00@gmail.com">
+<img src="https://img.shields.io/badge/Email-nezvihussain00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+⭐ **Always learning DevOps, Cloud Infrastructure, and Automation.**
